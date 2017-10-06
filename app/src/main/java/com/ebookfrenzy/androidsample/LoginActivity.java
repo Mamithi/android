@@ -3,7 +3,7 @@ package com.ebookfrenzy.androidsample;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class androidSampleActivity extends AppCompatActivity {
+public class LoginActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
